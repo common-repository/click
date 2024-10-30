@@ -1,0 +1,4 @@
+.clickdot{height:6px;width:6px;}
+.clickscale{height:10px;width:4px;}
+#click_controlpanel{background-color:#FF8;Border:0.1em solid #000;padding:0.5em;}
+	#click_controlpanel a {color:#000;}
